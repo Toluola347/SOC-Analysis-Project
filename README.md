@@ -1,10 +1,10 @@
 # SOC-Analysis-Project
-# THREAT DETECTION &amp; INCIDENT RESPONSE USING WIRESHARK, PFSENSE AND WAZUH
+## THREAT DETECTION &amp; INCIDENT RESPONSE USING WIRESHARK, PFSENSE AND WAZUH
 This project reflects a solution provided to SoCraTech Company based on their report of increased suspicious
 network traffic in their company.
 # Executive summary: 
 Socra Tech`s network security witnessed increased suspicious network activities. A
-comprehensive analyses of the network security usingS a three-phase SOC approach
+comprehensive analyses of the network security using a three-phase SOC approach
 with Wireshark, pfSense, and Wazuh was carried out. The objectives were to detect
 and respond to network anomalies, block malicious traffic, and investigate potential
 threats. This effort led to the identification and mitigation of several critical indicators of
